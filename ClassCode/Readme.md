@@ -25,10 +25,8 @@ const [counter, setCounter] = React.useState(Math.random());
  from above image we can see, todos changed due to setTimeout, value of nonStateVariable also changed, **but Counter value is same and will  remain same unless i call setCounter with some other value like setCounter(123)**
 
 
-gist.github.com/hkirat/7a9603709000a70125b6360d761e9d2e
+[UseEffect starter code](gist.github.com/hkirat/7a9603709000a70125b6360d761e9d2e)
 
-
-<a href="gist.github.com/hkirat/7a9603709000a70125b6360d761e9d2e" target="_blank">UseEffect starter code</a>
 
 
 
