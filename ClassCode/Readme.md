@@ -1,8 +1,8 @@
 
+## Week 4.2 | React, effects and custom hooks - 02/07/23
 
-Understanding how rendering happens 
 
-UseEffect 
+**UseEffect** 
 
 
     const [counter, setCounter] = React.useState(Math.random());
@@ -12,7 +12,7 @@ UseEffect
     console.log(counter);
     console.log(nonStateVariable);
 
-In above code - 
+Output :-
 
 ![alt text](<CounterRemainsSame.png>)
 
