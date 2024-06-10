@@ -6,4 +6,4 @@ using React-Router_DOM and basic state Management with MUI
 
 Admin Backend 
 
-Github repo - Week 5 axios with backend
+Github repo - [course-selling-app](https://github.com/100xDevs-hkirat/course-selling-app)
